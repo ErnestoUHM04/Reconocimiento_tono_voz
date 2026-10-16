@@ -1,0 +1,80 @@
+REPORTE DE EVALUACIÓN DE VOICES
+==============================
+Total evaluados: 80
+Correctos: 23
+Accuracy: 0.2875
+Porcentaje correcto: 28.75%
+
+CLASIFICACIÓN POR TIPO
+Bajo: 11/20 correctos
+Tenor: 1/20 correctos
+Contralto: 0/20 correctos
+Soprano: 11/20 correctos
+
+ERRORES DE CLASIFICACIÓN:
+- Bajo_001.wav: esperado Bajo, predicho Soprano
+- Bajo_003.wav: esperado Bajo, predicho Soprano
+- Bajo_004.wav: esperado Bajo, predicho Baritono
+- Bajo_005.wav: esperado Bajo, predicho Soprano
+- Bajo_006.wav: esperado Bajo, predicho Baritono
+- Bajo_017.wav: esperado Bajo, predicho Soprano
+- Bajo_018.wav: esperado Bajo, predicho Tenor
+- Bajo_019.wav: esperado Bajo, predicho Soprano
+- Bajo_020.wav: esperado Bajo, predicho Tenor
+- Tenor_021.wav: esperado Tenor, predicho Soprano
+- Tenor_022.wav: esperado Tenor, predicho Soprano
+- Tenor_023.wav: esperado Tenor, predicho Bajo
+- Tenor_024.wav: esperado Tenor, predicho Soprano
+- Tenor_025.wav: esperado Tenor, predicho Bajo
+- Tenor_026.wav: esperado Tenor, predicho Soprano
+- Tenor_027.wav: esperado Tenor, predicho Contralto
+- Tenor_028.wav: esperado Tenor, predicho Bajo
+- Tenor_029.wav: esperado Tenor, predicho Bajo
+- Tenor_031.wav: esperado Tenor, predicho Contralto
+- Tenor_032.wav: esperado Tenor, predicho Bajo
+- Tenor_033.wav: esperado Tenor, predicho Baritono
+- Tenor_034.wav: esperado Tenor, predicho Contralto
+- Tenor_035.wav: esperado Tenor, predicho Bajo
+- Tenor_036.wav: esperado Tenor, predicho Baritono
+- Tenor_037.wav: esperado Tenor, predicho Baritono
+- Tenor_038.wav: esperado Tenor, predicho Contralto
+- Tenor_039.wav: esperado Tenor, predicho Contralto
+- Tenor_040.wav: esperado Tenor, predicho Soprano
+- Contralto_041.wav: esperado Contralto, predicho Soprano
+- Contralto_042.wav: esperado Contralto, predicho Soprano
+- Contralto_043.wav: esperado Contralto, predicho Soprano
+- Contralto_044.wav: esperado Contralto, predicho Soprano
+- Contralto_045.wav: esperado Contralto, predicho Soprano
+- Contralto_046.wav: esperado Contralto, predicho Soprano
+- Contralto_047.wav: esperado Contralto, predicho Soprano
+- Contralto_048.wav: esperado Contralto, predicho Bajo
+- Contralto_049.wav: esperado Contralto, predicho Bajo
+- Contralto_050.wav: esperado Contralto, predicho Soprano
+- Contralto_051.wav: esperado Contralto, predicho Soprano
+- Contralto_052.wav: esperado Contralto, predicho Mezzosoprano
+- Contralto_053.wav: esperado Contralto, predicho Mezzosoprano
+- Contralto_054.wav: esperado Contralto, predicho Mezzosoprano
+- Contralto_055.wav: esperado Contralto, predicho Soprano
+- Contralto_056.wav: esperado Contralto, predicho Soprano
+- Contralto_057.wav: esperado Contralto, predicho Soprano
+- Contralto_058.wav: esperado Contralto, predicho Soprano
+- Contralto_059.wav: esperado Contralto, predicho Soprano
+- Contralto_060.wav: esperado Contralto, predicho Soprano
+- Soprano_062.wav: esperado Soprano, predicho Mezzosoprano
+- Soprano_064.wav: esperado Soprano, predicho Tenor
+- Soprano_068.wav: esperado Soprano, predicho Mezzosoprano
+- Soprano_069.wav: esperado Soprano, predicho Mezzosoprano
+- Soprano_071.wav: esperado Soprano, predicho Mezzosoprano
+- Soprano_072.wav: esperado Soprano, predicho Mezzosoprano
+- Soprano_073.wav: esperado Soprano, predicho Mezzosoprano
+- Soprano_075.wav: esperado Soprano, predicho Mezzosoprano
+- Soprano_077.wav: esperado Soprano, predicho Contralto
+
+RANGO DE F0 USADO POR EL CLASIFICADOR:
+Bajo: 82–330 Hz
+Tenor: 131–523 Hz
+Contralto: 175–698 Hz
+Soprano: 262–1047 Hz
+
+NOTA: Los resultados se basan en el nombre del archivo, mientras que la
+clasificación se obtiene con el analizador MFCC/F0 de jj.py.

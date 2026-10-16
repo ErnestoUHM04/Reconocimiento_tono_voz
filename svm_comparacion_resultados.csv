@@ -1,0 +1,13 @@
+accuracy,f1_score_macro,recall_macro,precision_macro,carpeta,kernel,C,gamma
+1.0,1.0,1.0,1.0,svm_linear_c_0_1_resultados,linear,0.1,
+0.9705882352941176,0.9701754385964911,0.96875,0.975,svm_rbf_c_0_1_gamma_scale_resultados,rbf,0.1,scale
+0.9705882352941176,0.9701754385964911,0.96875,0.975,svm_rbf_c_0_1_gamma_auto_resultados,rbf,0.1,auto
+1.0,1.0,1.0,1.0,svm_linear_c_1_resultados,linear,1.0,
+1.0,1.0,1.0,1.0,svm_rbf_c_1_gamma_scale_resultados,rbf,1.0,scale
+1.0,1.0,1.0,1.0,svm_rbf_c_1_gamma_auto_resultados,rbf,1.0,auto
+1.0,1.0,1.0,1.0,svm_linear_c_10_resultados,linear,10.0,
+1.0,1.0,1.0,1.0,svm_rbf_c_10_gamma_scale_resultados,rbf,10.0,scale
+1.0,1.0,1.0,1.0,svm_rbf_c_10_gamma_auto_resultados,rbf,10.0,auto
+1.0,1.0,1.0,1.0,svm_linear_c_100_resultados,linear,100.0,
+1.0,1.0,1.0,1.0,svm_rbf_c_100_gamma_scale_resultados,rbf,100.0,scale
+1.0,1.0,1.0,1.0,svm_rbf_c_100_gamma_auto_resultados,rbf,100.0,auto

@@ -1,0 +1,10 @@
+accuracy,f1_score_macro,recall_macro,precision_macro,carpeta,n_estimators,max_depth,max_features,class_weight,random_state,n_jobs
+1.0,1.0,1.0,1.0,randomforest_100_arboles_profundidad_sin_limite_resultados,100,,sqrt,balanced,42,-1
+1.0,1.0,1.0,1.0,randomforest_100_arboles_profundidad_10_resultados,100,10.0,sqrt,balanced,42,-1
+1.0,1.0,1.0,1.0,randomforest_100_arboles_profundidad_20_resultados,100,20.0,sqrt,balanced,42,-1
+1.0,1.0,1.0,1.0,randomforest_200_arboles_profundidad_sin_limite_resultados,200,,sqrt,balanced,42,-1
+1.0,1.0,1.0,1.0,randomforest_200_arboles_profundidad_10_resultados,200,10.0,sqrt,balanced,42,-1
+1.0,1.0,1.0,1.0,randomforest_200_arboles_profundidad_20_resultados,200,20.0,sqrt,balanced,42,-1
+1.0,1.0,1.0,1.0,randomforest_300_arboles_profundidad_sin_limite_resultados,300,,sqrt,balanced,42,-1
+1.0,1.0,1.0,1.0,randomforest_300_arboles_profundidad_10_resultados,300,10.0,sqrt,balanced,42,-1
+1.0,1.0,1.0,1.0,randomforest_300_arboles_profundidad_20_resultados,300,20.0,sqrt,balanced,42,-1

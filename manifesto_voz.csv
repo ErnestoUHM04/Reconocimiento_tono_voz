@@ -1,0 +1,81 @@
+numero,nombre,tipo_esperado,origen,frecuencia_hz,samples
+1,Bajo_001.wav,Bajo,08_Anima_nostra/voices/BASSUS.wav,32000,5083776
+2,Bajo_002.wav,Bajo,136._Benedict_Regius_Cantabant_Sancti_canticum_a_8/voices/Bassus Ch1-F4.wav,32000,6588288
+3,Bajo_003.wav,Bajo,136._Benedict_Regius_Cantabant_Sancti_canticum_a_8/voices/Bassus Ch2-F4.wav,32000,6587136
+4,Bajo_004.wav,Bajo,140._Leoni%2C_L._Audivi_vocem_Angelorum_a_8/voices/Bassus Ch1-F4.wav,32000,6461568
+5,Bajo_005.wav,Bajo,140._Leoni%2C_L._Audivi_vocem_Angelorum_a_8/voices/Bassus Ch2-F4.wav,32000,6461568
+6,Bajo_006.wav,Bajo,Hail_to_the_Chief_Leslie/voices/Bass.wav,32000,3451392
+7,Bajo_007.wav,Bajo,HempCW-JustJudge/voices/BASS.wav,32000,1964160
+8,Bajo_008.wav,Bajo,Honour_and_majesty_are_before_him/voices/Bass.wav,32000,2020608
+9,Bajo_009.wav,Bajo,Hunting_song_Macfarren_WC/voices/Bass.wav,32000,2268288
+10,Bajo_010.wav,Bajo,I_am_the_bread/voices/Bass.wav,32000,1339776
+11,Bajo_011.wav,Bajo,I_am_the_resurrection_Tomkins/voices/Bass.wav,32000,1819008
+12,Bajo_012.wav,Bajo,I_know_that_my_Redeemer_Tomkins/voices/Bass.wav,32000,2249856
+13,Bajo_013.wav,Bajo,I_know_whom_I_have_believed_-_MacFarren/voices/Bass.wav,32000,1990656
+14,Bajo_014.wav,Bajo,I_will_recount/voices/Bass.wav,32000,1195776
+15,Bajo_015.wav,Bajo,If_I_had_but_two_little_wings_Parry/voices/Bass.wav,32000,4288896
+16,Bajo_016.wav,Bajo,If_you_love_me/voices/Bass.wav,32000,1484928
+17,Bajo_017.wav,Bajo,India-Circumdederunt_me/voices/Bass.wav,32000,10334592
+18,Bajo_018.wav,Bajo,India-Deus%2C_Deus_meus_respice/voices/Bass.wav,32000,8107776
+19,Bajo_019.wav,Bajo,India-Domine_Deus_vite_meae/voices/Bass.wav,32000,7084800
+20,Bajo_020.wav,Bajo,India-Domine_prevenisti_eum/voices/Bass.wav,32000,4651776
+21,Tenor_021.wav,Tenor,08_Anima_nostra/voices/TENOR I.wav,32000,5083776
+22,Tenor_022.wav,Tenor,08_Anima_nostra/voices/TENOR II.wav,32000,5083776
+23,Tenor_023.wav,Tenor,136._Benedict_Regius_Cantabant_Sancti_canticum_a_8/voices/Tenor Ch1-C4.wav,32000,6588288
+24,Tenor_024.wav,Tenor,136._Benedict_Regius_Cantabant_Sancti_canticum_a_8/voices/Tenor Ch2-C4.wav,32000,6588288
+25,Tenor_025.wav,Tenor,140._Leoni%2C_L._Audivi_vocem_Angelorum_a_8/voices/Tenor Ch1-C4.wav,32000,6461568
+26,Tenor_026.wav,Tenor,140._Leoni%2C_L._Audivi_vocem_Angelorum_a_8/voices/Tenor Ch2-C4.wav,32000,6461568
+27,Tenor_027.wav,Tenor,Hail_to_the_Chief_Leslie/voices/Tenor.wav,32000,3451392
+28,Tenor_028.wav,Tenor,HempCW-JustJudge/voices/TENOR.wav,32000,1964160
+29,Tenor_029.wav,Tenor,Honour_and_majesty_are_before_him/voices/Tenor.wav,32000,2020608
+30,Tenor_030.wav,Tenor,Hunting_song_Macfarren_WC/voices/Tenor.wav,32000,2268288
+31,Tenor_031.wav,Tenor,I_am_the_bread/voices/Tenor.wav,32000,1339776
+32,Tenor_032.wav,Tenor,I_am_the_resurrection_Tomkins/voices/Tenor.wav,32000,1819008
+33,Tenor_033.wav,Tenor,I_know_that_my_Redeemer_Tomkins/voices/Tenor.wav,32000,2251008
+34,Tenor_034.wav,Tenor,I_know_whom_I_have_believed_-_MacFarren/voices/Tenor.wav,32000,1990656
+35,Tenor_035.wav,Tenor,I_will_recount/voices/Tenor.wav,32000,1195776
+36,Tenor_036.wav,Tenor,If_I_had_but_two_little_wings_Parry/voices/Tenor.wav,32000,4286592
+37,Tenor_037.wav,Tenor,If_you_love_me/voices/Tenor.wav,32000,1483776
+38,Tenor_038.wav,Tenor,India-Circumdederunt_me/voices/Tenor.wav,32000,10334592
+39,Tenor_039.wav,Tenor,India-Deus%2C_Deus_meus_respice/voices/Tenor.wav,32000,8107776
+40,Tenor_040.wav,Tenor,India-Domine_Deus_vite_meae/voices/Tenor.wav,32000,7083648
+41,Contralto_041.wav,Contralto,08_Anima_nostra/voices/ALTUS.wav,32000,5083776
+42,Contralto_042.wav,Contralto,136._Benedict_Regius_Cantabant_Sancti_canticum_a_8/voices/Altus Ch1-C3.wav,32000,6588288
+43,Contralto_043.wav,Contralto,136._Benedict_Regius_Cantabant_Sancti_canticum_a_8/voices/Altus Ch2-C3.wav,32000,6587136
+44,Contralto_044.wav,Contralto,140._Leoni%2C_L._Audivi_vocem_Angelorum_a_8/voices/Altus Ch1-C3.wav,32000,6461568
+45,Contralto_045.wav,Contralto,140._Leoni%2C_L._Audivi_vocem_Angelorum_a_8/voices/Altus Ch2-C4.wav,32000,6461568
+46,Contralto_046.wav,Contralto,Hail_to_the_Chief_Leslie/voices/Alto.wav,32000,3451392
+47,Contralto_047.wav,Contralto,Haydnmesse_4stimmig/voices/Voice 2.wav,32000,6427008
+48,Contralto_048.wav,Contralto,Haydnmesse_4stimmig/voices/Voice 3.wav,32000,6428160
+49,Contralto_049.wav,Contralto,Haydnmesse_4stimmig/voices/Voice 4.wav,32000,6428160
+50,Contralto_050.wav,Contralto,Haydnmesse_4stimmig/voices/Voice.wav,32000,6428160
+51,Contralto_051.wav,Contralto,HempCW-JustJudge/voices/ALTO.wav,32000,1964160
+52,Contralto_052.wav,Contralto,Honour_and_majesty_are_before_him/voices/Alto.wav,32000,2020608
+53,Contralto_053.wav,Contralto,Hunting_song_Macfarren_WC/voices/Alto.wav,32000,2268288
+54,Contralto_054.wav,Contralto,I_am_the_bread/voices/Alto.wav,32000,1339776
+55,Contralto_055.wav,Contralto,I_am_the_resurrection_Tomkins/voices/Alto.wav,32000,1819008
+56,Contralto_056.wav,Contralto,I_know_that_my_Redeemer_Tomkins/voices/Alto.wav,32000,2249856
+57,Contralto_057.wav,Contralto,I_know_whom_I_have_believed_-_MacFarren/voices/Alto.wav,32000,1990656
+58,Contralto_058.wav,Contralto,I_will_recount/voices/Alto.wav,32000,1195776
+59,Contralto_059.wav,Contralto,If_I_had_but_two_little_wings_Parry/voices/Alto.wav,32000,4286592
+60,Contralto_060.wav,Contralto,If_ye_then_be_risen_with_Christ_Foster/voices/Alto.wav,32000,9171072
+61,Soprano_061.wav,Soprano,08_Anima_nostra/voices/CANTUS.wav,32000,5083776
+62,Soprano_062.wav,Soprano,136._Benedict_Regius_Cantabant_Sancti_canticum_a_8/voices/Cantus Ch1-C1.wav,32000,6588288
+63,Soprano_063.wav,Soprano,136._Benedict_Regius_Cantabant_Sancti_canticum_a_8/voices/Cantus Ch2-C1.wav,32000,6587136
+64,Soprano_064.wav,Soprano,140._Leoni%2C_L._Audivi_vocem_Angelorum_a_8/voices/Cantus Ch1-C1.wav,32000,6461568
+65,Soprano_065.wav,Soprano,140._Leoni%2C_L._Audivi_vocem_Angelorum_a_8/voices/Cantus Ch2-C3.wav,32000,6461568
+66,Soprano_066.wav,Soprano,Hail_to_the_Chief_Leslie/voices/Soprano.wav,32000,3451392
+67,Soprano_067.wav,Soprano,HempCW-JustJudge/voices/SOPRANO.wav,32000,1964160
+68,Soprano_068.wav,Soprano,Honour_and_majesty_are_before_him/voices/Soprano.wav,32000,2020608
+69,Soprano_069.wav,Soprano,Hunting_song_Macfarren_WC/voices/Soprano.wav,32000,2268288
+70,Soprano_070.wav,Soprano,I_am_the_bread/voices/Soprano.wav,32000,1339776
+71,Soprano_071.wav,Soprano,I_am_the_resurrection_Tomkins/voices/Soprano .wav,32000,1819008
+72,Soprano_072.wav,Soprano,I_know_that_my_Redeemer_Tomkins/voices/Soprano.wav,32000,2251008
+73,Soprano_073.wav,Soprano,I_know_whom_I_have_believed_-_MacFarren/voices/Soprano.wav,32000,1990656
+74,Soprano_074.wav,Soprano,I_will_recount/voices/Soprano.wav,32000,1195776
+75,Soprano_075.wav,Soprano,If_I_had_but_two_little_wings_Parry/voices/Soprano.wav,32000,4286592
+76,Soprano_076.wav,Soprano,If_ye_then_be_risen_with_Christ_Foster/voices/Soprano.wav,32000,9171072
+77,Soprano_077.wav,Soprano,If_you_love_me/voices/Soprano.wav,32000,1483776
+78,Soprano_078.wav,Soprano,India-Circumdederunt_me/voices/Soprano.wav,32000,10334592
+79,Soprano_079.wav,Soprano,India-Deus%2C_Deus_meus_respice/voices/Soprano.wav,32000,8107776
+80,Soprano_080.wav,Soprano,India-Domine_Deus_vite_meae/voices/Soprano.wav,32000,7083648
